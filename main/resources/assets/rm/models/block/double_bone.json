@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "rm:blocks/bone_slab_top",
+        "side": "rm:blocks/bone_slab_side"
+      }
+}
